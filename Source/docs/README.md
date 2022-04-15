@@ -1,9 +1,13 @@
-My dog is cute and also furry
-# My dog is cute and also furry
-My dog is **cute** and also furry
-My dog is *cute* and also furry
+MHam (Extra amateur class) LICENSE
+# MHam (Extra amateur class) LICENSE
+Ham (Extra amateur class) LICENSE
+Ham (Extra amateur class) LICENSE
 ```console
-potato > 
+Circuit descriptions contain two parts:
+	Schematic drawing
+	text file
+	Shows the interconnection of components 
+	Describes the physical properties of the components  > 
 
 
 ```
@@ -114,7 +118,28 @@ and make pull-requests.
 
 # Overview
 
+Circuit Description Language (CDL) - First designed as a convenient notation for manual preparation of wire lists. Has open ended structure
+	•	ASCHII
+	•	Wire-wrap board
+	•	Integrated circuit
 
+
+	•	signal
+	•	The information that passes over a wire and is carried by a net of wires
+	•	special signal
+	•	A signal that is distributed about the circuit board by printed circuitry. Ground and vcc often fall into this category
+	•	chip
+	•	A circuit component such as NAND gate
+	•	package
+	•	The physical unit which houses one or more chips. A dual in-line package is an example
+	•	pin
+	•	The point where a signal wire connects to a chip
+	•	board
+	•	The physical unit on which packages are mounted
+	•	socket - The device for mounting a package on a board
+	•	connector -The interface between signal wires on the board and those external to the board
+	•	
+HAM RADIO
 
 
 
