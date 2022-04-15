@@ -8,7 +8,7 @@ potato >
 
 ```
 **Google**: *markdown cheatsheet*
-## Get Started
+## Visuals & Video Modes
 Follow the [Getting Started](https://docs.microsoft.com/aspnet/core/getting-started) instructions in the [ASP.NET Core docs](https://docs.microsoft.com/aspnet/index).
 Also check out the [.NET Homepage](https://www.microsoft.com/net) for released versions of .NET, getting started guides, and learning resources.
 See the [Triage Process](https://github.com/dotnet/aspnetcore/blob/main/docs/TriageProcess.md) document for more information on how we handle incoming issues.
@@ -22,8 +22,9 @@ and make pull-requests.
     * [Roadmap](https://aka.ms/aspnet/roadmap): The schedule and milestone themes for ASP.NET Core.
 * [Build ASP.NET Core source code](./docs/BuildFromSource.md)
 * Check out the [contributing](CONTRIBUTING.md) page to see the best places to log issues and start discussions.
+SKYWAVES & CONTESTING:
 
-# Downloaded extensions:
+# Links
   * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Ritwick Dey
   * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Yun Zhang
   * 
