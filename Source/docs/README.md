@@ -8,6 +8,86 @@ potato >
 
 ```
 **Google**: *markdown cheatsheet*
+## CONVERSIONS TO KNOW:
+ *dB to ratio
+	* Ratio to dB
+	* Inductor Impedance
+	* Capacitor Impedance
+	* Series RLC Impedance
+	* Solve for pF x MHz 
+	* Parallel RLC Impedance
+	* RC Time Constant = seconds
+	* Polar to Rectangular Coordinates (Magnitude at an angle or a vector)
+	
+## CALCULATIONS:
+	* Assumptions:
+	* Density
+	* Exposure limits
+	* Density results
+	* CONOPS
+	
+## ELECTRICAL PRINCIPLES
+
+	⁃ CIRCUIT COMPONENTS
+## TERMINOLOGY:
+Fox-hunting (Direction Finding):
+	⁃	LPFM application process (FCC Form 318)
+	⁃	National Association of Broadcasters
+	⁃	National Public Radio
+	⁃	CHIRP
+	⁃	Transmitter
+	⁃	Studio
+	⁃	Amplifier
+	⁃	Low-power broadcasting
+	⁃	SCADA Systems
+	⁃	Station Identifier
+	⁃	Broadcasting
+	⁃	Micropower Broadcasting
+	⁃	Federal Communications Commission
+	⁃	QSOs
+	⁃	VOPI
+	⁃	HF
+	⁃	TELEGRAM
+	⁃	American Radio Relay League
+	⁃	Radio Amateurs Civil Emergency Service (RACES)
+	⁃	“amateur” 
+	⁃	The term "amateur" is used to specify "a duly authorized person interested in radio-electric practice with a purely personal aim and without pecuniary interest;" (either direct monetary or other similar reward) and to differentiate it from commercial broadcasting, public safety (such as police and fire), or professional two-way radio services (such as maritime, aviation, taxis, etc.).
+	⁃	The amateur radio service (amateur service and amateur-satellite service) is established by the International Telecommunication Union (ITU) through the Radio Regulations.
+	⁃	Earth Moon Earth (EME) Radio Propagation
+	⁃	Public Airwaves
+	⁃	FM
+	⁃	AM
+	⁃	Non-commercial Low Power FM License
+	⁃	FM Transmitter
+	⁃	Communications Act of 1934
+	⁃	Lutz Community Radio by Federal Govt
+	⁃	Strawcutter Ruling
+	⁃	Ayn Rand on The Property Status of Airwaves
+	⁃	Antenna
+	⁃	Antenna Modeling
+	⁃	AMSAT
+	⁃	TRANSCEIVER
+	⁃	QRP
+	⁃	LimeSDR
+	⁃	AMTOR
+	⁃	Packet radio
+	⁃	LASER - Acronym for “Light amplification by stimulated emission of radiation”
+	⁃	LED - Acronym for “Light emitting diodes” - Produce incoherent radiation, but have a similar structure to that of the semi-conductor laser which will be discussed later
+	⁃	Public-key cryptography
+	⁃	Portable Satellite Station
+	⁃	Radio Galaxies
+	⁃	‘swapping crystals'
+	⁃	Two way Radio
+	⁃	wavelength radiation,
+constellation Cygnus 
+Grote Rebe
+
+	⁃	Micropower Broadcasting
+	⁃	Location of Studio & Transmitter
+	⁃	FM Transmitter
+
+
+
 ## Visuals & Video Modes
 Follow the [Getting Started](https://docs.microsoft.com/aspnet/core/getting-started) instructions in the [ASP.NET Core docs](https://docs.microsoft.com/aspnet/index).
 Also check out the [.NET Homepage](https://www.microsoft.com/net) for released versions of .NET, getting started guides, and learning resources.
@@ -22,7 +102,9 @@ and make pull-requests.
     * [Roadmap](https://aka.ms/aspnet/roadmap): The schedule and milestone themes for ASP.NET Core.
 * [Build ASP.NET Core source code](./docs/BuildFromSource.md)
 * Check out the [contributing](CONTRIBUTING.md) page to see the best places to log issues and start discussions.
-SKYWAVES & CONTESTING:
+
+## Skywaves & Contesting:
+
 
 # Links
   * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Ritwick Dey
