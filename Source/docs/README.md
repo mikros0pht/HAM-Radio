@@ -1,5 +1,5 @@
-MHam (Extra amateur class) LICENSE
-# MHam (Extra amateur class) LICENSE
+Ham (Extra amateur class) LICENSE
+# Ham (Extra amateur class) LICENSE
 Ham (Extra amateur class) LICENSE
 Ham (Extra amateur class) LICENSE
 ```console
